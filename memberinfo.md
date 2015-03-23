@@ -51,9 +51,9 @@
 　　　
 -gihub 的代码仓库：https://github.com/allansmith2009/omooc.py  
 　　
--gitbook 在 github 上的图书仓库：  
+-gitbook 在 github 上的图书仓库： https://github.com/allansmith2009/pythoncamp0.git
  　　
--gitbook 发布链接：  
+-gitbook 发布链接：  https://www.gitbook.com/book/allansmith2009/1234/dashboard 
 　　　
 
 6.向阳：  
